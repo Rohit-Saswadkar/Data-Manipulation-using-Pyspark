@@ -1,7 +1,3 @@
-Here's a README file for your PySpark banking data engineering project:
-
----
-
 # Banking Data Analysis Using PySpark
 
 ## Project Overview
