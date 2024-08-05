@@ -15,9 +15,9 @@ This project involves analyzing a dataset of banking transactions using PySpark.
 
 ### Prerequisites
 
-- Python 3.6+
+- Python
 - PySpark
-- AWS CLI (for S3 interactions, if needed)
+
 
 ### Installation
 
